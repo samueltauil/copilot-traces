@@ -2,6 +2,8 @@
 
 Visualize GitHub Copilot's prompt cache behavior using OpenTelemetry traces and Grafana. Runs locally with Docker Compose, no cloud services needed.
 
+![Copilot Prompt Cache Dashboard](docs/dashboard.png)
+
 ## Architecture
 
 ```mermaid
